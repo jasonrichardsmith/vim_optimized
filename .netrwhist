@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jason/Desktop/PublicHTML/intelli/www/sites/all/modules/custom/ship_split'
+let g:netrw_dirhist_2='/home/jason/Desktop/PublicHTML/intelli/www/sites/all/modules/custom/intg_recurring'
+let g:netrw_dirhist_3='/home/jason/Desktop/PublicHTML/intelli/www/sites/all/modules/custom/order_export'
+let g:netrw_dirhist_4='/home/jason/Desktop/PublicHTML/intelli/www/sites/all/.git'
+let g:netrw_dirhist_5='/home/jason/.vimbackups'
